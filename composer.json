@@ -1,0 +1,19 @@
+{
+    "name": "bugrov/date",
+    "description": "Вывод даты с русским месяцем",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bugrov\\Web\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bugrov",
+            "email": "a.bugrov@intensa.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
